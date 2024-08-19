@@ -1,0 +1,35 @@
+.containerForm {
+    margin: auto;
+    margin-top: 30px;
+    width: 500px;
+    height: auto;
+    text-align: center;
+    border: 1px solid red;
+    background-color: black;
+    color: red;
+}
+.titleForm {
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.form-control {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.form-control label{
+    margin-right: 10px;
+}
+.form-control input {
+    border-radius: 10px;
+}
+.form-control button {
+    border-radius: 10px;
+    background-color: red;
+    width: 60px;
+    height: 25px;
+    color: white;
+    border: none;
+}
